@@ -1,0 +1,4 @@
+requests
+PyMySQL
+sqlalchemy
+dependency_injector==4.37.0
